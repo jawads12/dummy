@@ -1,5 +1,9 @@
 nabil
 fabjhsdfjk
+<<<<<<< Updated upstream
 nabil's updates
 ggggh
 nbnbnb
+=======
+nabil's updates
+>>>>>>> Stashed changes
